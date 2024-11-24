@@ -1,0 +1,18 @@
+[
+    {"username": "PixelNinja", "email": "pixelninja@example.com", "signup_date": "2023-01-15T10:00:00Z"},
+    {"username": "SerpentMaster", "email": "serpentmaster@example.com", "signup_date": "2023-01-25T11:00:00Z"},
+    {"username": "CobraKing", "email": "cobraking@example.com", "signup_date": "2023-02-03T12:00:00Z"},
+    {"username": "ViperWarrior", "email": "viperwarrior@example.com", "signup_date": "2023-02-10T13:00:00Z"},
+    {"username": "SlitherExpert", "email": "slitherexpert@example.com", "signup_date": "2023-02-15T14:00:00Z"},
+    {"username": "FangFury", "email": "fangfury@example.com", "signup_date": "2023-02-20T15:00:00Z"},
+    {"username": "SlyShadow", "email": "slyshadow@example.com", "signup_date": "2023-03-01T16:00:00Z"},
+    {"username": "MambaMaverick", "email": "mambamaverick@example.com", "signup_date": "2023-03-05T17:00:00Z"},
+    {"username": "PythonLord", "email": "pythonlord@example.com", "signup_date": "2023-03-10T18:00:00Z"},
+    {"username": "VenomVortex", "email": "venomvortex@example.com", "signup_date": "2023-03-15T19:00:00Z"},
+    {"username": "CoilCrusher", "email": "coilcrusher@example.com", "signup_date": "2023-03-20T20:00:00Z"},
+    {"username": "SlitherSage", "email": "slithersage@example.com", "signup_date": "2023-03-25T21:00:00Z"},
+    {"username": "AnacondaAce", "email": "anacondaace@example.com", "signup_date": "2023-03-30T22:00:00Z"},
+    {"username": "ReptileRider", "email": "reptilerider@example.com", "signup_date": "2023-04-05T23:00:00Z"},
+    {"username": "ScaleSurgeon", "email": "scalesurgeon@example.com", "signup_date": "2023-04-10T08:00:00Z"}
+  ]
+  

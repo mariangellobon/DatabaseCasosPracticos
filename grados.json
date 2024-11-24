@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "URJC_MOSTOLES_G1",
+        "nombre": "Grado en Administración y Dirección de Empresas",
+        "facultad": "Facultad de Ciencias Jurídicas y Sociales",
+        "campus_id": "URJC_MOSTOLES"
+    },
+    {
+        "_id": "URJC_MOSTOLES_G2",
+        "nombre": "Grado en Ingeniería Informática",
+        "facultad": "Escuela Técnica Superior de Ingeniería Informática",
+        "campus_id": "URJC_MOSTOLES"
+    },
+    {
+        "_id": "URJC_ALCORCON_G1",
+        "nombre": "Grado en Enfermería",
+        "facultad": "Facultad de Ciencias de la Salud",
+        "campus_id": "URJC_ALCORCON"
+    },
+    {
+        "_id": "CEU_MADRID_G1",
+        "nombre": "Grado en Derecho",
+        "facultad": "Facultad de Derecho",
+        "campus_id": "CEU_MADRID"
+    },
+    {
+        "_id": "CEU_BOADILLA_G1",
+        "nombre": "Grado en Comunicación Audiovisual",
+        "facultad": "Facultad de Humanidades y Ciencias de la Comunicación",
+        "campus_id": "CEU_BOADILLA"
+    },
+    {
+        "_id": "UCM_MADRID_G1",
+        "nombre": "Grado en Medicina",
+        "facultad": "Facultad de Medicina",
+        "campus_id": "UCM_MADRID"
+    },
+    {
+        "_id": "UCM_MADRID_G2",
+        "nombre": "Grado en Psicología",
+        "facultad": "Facultad de Psicología",
+        "campus_id": "UCM_MADRID"
+    }
+]

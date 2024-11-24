@@ -1,0 +1,32 @@
+[
+    {
+        "_id": "URJC_MOSTOLES",
+        "nombre": "Campus de Móstoles",
+        "ubicacion": "Móstoles, Madrid",
+        "universidad_id": "URJC"
+    },
+    {
+        "_id": "URJC_ALCORCON",
+        "nombre": "Campus de Alcorcón",
+        "ubicacion": "Alcorcón, Madrid",
+        "universidad_id": "URJC"
+    },
+    {
+        "_id": "UCM_MADRID",
+        "nombre": "Campus de Moncloa",
+        "ubicacion": "Madrid",
+        "universidad_id": "UCM"
+    },
+    {
+        "_id": "CEU_BOADILLA",
+        "nombre": "Campus de Montepríncipe",
+        "ubicacion": "Boadilla del Monte, Madrid",
+        "universidad_id": "CEU"
+    },
+    {
+        "_id": "CEU_MADRID",
+        "nombre": "Campus de Madrid",
+        "ubicacion": "Madrid",
+        "universidad_id": "CEU"
+    }
+]

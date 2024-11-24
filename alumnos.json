@@ -1,0 +1,42 @@
+[
+    {
+        "_id": 10001,
+        "nombre": "Laura",
+        "apellidos": "Martínez García",
+        "edad": 20,
+        "dni": "12345678Z",
+        "grado_ids": ["URJC_MOSTOLES_G1", "URJC_MOSTOLES_G2"]
+    },
+    {
+        "_id": 10002,
+        "nombre": "David",
+        "apellidos": "Fernández López",
+        "edad": 22,
+        "dni": "23456789Y",
+        "grado_ids": ["CEU_MADRID_G1"]
+    },
+    {
+        "_id": 10003,
+        "nombre": "Elena",
+        "apellidos": "Gómez Sánchez",
+        "edad": 21,
+        "dni": "34567890X",
+        "grado_ids": ["UCM_MADRID_G1"]
+    },
+    {
+        "_id": 10004,
+        "nombre": "Jorge",
+        "apellidos": "Sánchez Pérez",
+        "edad": 23,
+        "dni": "45678901W",
+        "grado_ids": ["CEU_BOADILLA_G1"]
+    },
+    {
+        "_id": 10005,
+        "nombre": "María",
+        "apellidos": "López Díaz",
+        "edad": 19,
+        "dni": "56789012V",
+        "grado_ids": ["URJC_ALCORCON_G1", "UCM_MADRID_G2"]
+    }
+]

@@ -1,0 +1,5 @@
+[
+    {"_id": "URJC", "nombre": "Universidad Rey Juan Carlos", "ubicacion": "Madrid", "fundada_en": 1996},
+    {"_id": "CEU", "nombre": "Universidad CEU San Pablo", "ubicacion": "Madrid", "fundada_en": 1993},
+    {"_id": "UCM", "nombre": "Universidad Complutense de Madrid", "ubicacion": "Madrid", "fundada_en": 1822}
+]
